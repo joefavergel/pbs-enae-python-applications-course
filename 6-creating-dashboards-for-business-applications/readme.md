@@ -7,7 +7,7 @@
 <p align="left">
   <h3><a href="https://joefaver.dev">Joseph F. Vergel-Becerra</a> | Aplicaciones de Python - Tools and Skill Courses</h3>
   <br>
-  <b>Last updated:</b> <i>22/02/2023</i>
+  <b>Last updated:</b> <i>03/12/2023</i>
   <br><br>
   <!-- <a href="#tabla-de-contenido">Tabla de contenido</a> • -->
   <a href="#referencias">Referencias</a> •
@@ -22,7 +22,7 @@
       </a>
   </td>
   <td>
-    <a href="https://colab.research.google.com/github/joefavergel/pbs-enae-python-applications-course/blob/main/1-customer-segmentation-target marketing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    <a href="https://colab.research.google.com/github/joefavergel/pbs-enae-python-applications-course/blob/main/6-creating-dashboards-for-business-applications/6-[UPDATED-VERSIONS]-creating_dashboards_for_business_applications.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
       </a>
   </td>
   <td>
